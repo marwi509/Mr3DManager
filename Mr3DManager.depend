@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1368027095 source:/home/marcus/Dokument/Mr3DManager/Mr3DManager/main.cpp
+	<iostream>
+	<GL/gl.h>
+	"include/FileReader.hpp"
+
+1368027153 /home/marcus/Dokument/Mr3DManager/Mr3DManager/include/FileReader.hpp
+	<string>
+
+1368026915 source:/home/marcus/Dokument/Mr3DManager/Mr3DManager/src/FileReader.cpp
+	"../include/FileReader.hpp"
+	<iostream>
+	<fstream>
+	<string>
+

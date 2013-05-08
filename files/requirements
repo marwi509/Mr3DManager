@@ -1,0 +1,7 @@
+Requirements for the v1.0 of Mr3DManager
+
+- The program shall have functions to add models from .obj files.
+- The program shall render these models in a scene.
+- The program shall have functions to compile and add shaders.
+- The program shall be able to render a certain object with a certain shader.
+- The program shall be implemented in C++ and OpenGL.
